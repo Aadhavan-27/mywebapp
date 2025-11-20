@@ -1,0 +1,9 @@
+{
+  "name": "aws-ci-cd-demo",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"No tests yet\""
+  }
+}
